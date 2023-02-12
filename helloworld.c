@@ -6,8 +6,9 @@
 int main()
 {
     // prints hello world
-    printf("Hello World\n");
+    printf("Hello World!\n");
     // system("pause");
+    printf("Hello World!!\n");
 
     return 0;
 }
